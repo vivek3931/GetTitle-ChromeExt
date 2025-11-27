@@ -1,0 +1,20 @@
+{
+  "name": "title-chrome_extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivek3931/GetTitle-ChromeExt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivek3931/GetTitle-ChromeExt/issues"
+  },
+  "homepage": "https://github.com/vivek3931/GetTitle-ChromeExt#readme"
+}
